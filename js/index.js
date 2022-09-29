@@ -14,6 +14,5 @@ function fechaDrawer() {
 }
 
 burgerMenu.addEventListener('click', abreDrawer)
-
 pageOverlay.addEventListener('click', fechaDrawer)
 btnClose.addEventListener('click', fechaDrawer)
